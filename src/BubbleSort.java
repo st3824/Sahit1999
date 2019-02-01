@@ -22,7 +22,6 @@ class BubbleSort
 		System.out.println();
 	}
 
-
 	public static void main(String args[])
 	{
 		BubbleSort ob = new BubbleSort();
